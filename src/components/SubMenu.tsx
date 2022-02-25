@@ -46,7 +46,7 @@ const SubMenu: React.FC<Props> = ({ category, active }) => {
                   showSubCategoryMenu={
                     showSubCategoryMenu === subMenu.category_id
                   }
-                  // subChildrenMenu={subMenu[subChildren]}
+                  // subChildrenMenu={subMenu['sub-sub']}
                 />
               </div>
             </li>
