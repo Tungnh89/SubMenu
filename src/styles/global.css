@@ -19,3 +19,17 @@ a:hover {
 .content ul {
   @apply my-6;
 }
+
+body {
+  /* background-color: #FFFFFF; */
+  background-color: #F3F4F6;
+}
+
+.subMenu {
+  left: 21.7rem;
+}
+
+.imgSubCategory {
+  border-radius: 80%;
+  margin-bottom: 1rem;
+}
